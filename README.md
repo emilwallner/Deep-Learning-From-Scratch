@@ -1,5 +1,7 @@
 # Deep Learning From Scratch
 
+There are six snippets of code that made deep learning what it is today. [This article](http://floydhub.com/) covers the inventors and the background to their breakthroughs. In this repo, you can find all the code samples from the story.
+
 - **The Method of Least Squares**: The first cost function
 - **Gradient Descent**: Finding the minimum of the cost function
 - **Linear Regression**: Automatically decrease the cost function
