@@ -1,7 +1,6 @@
 # Deep Learning From Scratch
 
-There are six snippets of code that made deep learning what it is today. [Coding the History of Deep Learning on Floydhub'
-s blog](http://blog.floydhub.com/coding-the-history-of-deep-learning/) covers the inventors and the background to their breakthroughs. In this repo, you can find all the code samples from the story.
+There are six snippets of code that made deep learning what it is today. [Coding the History of Deep Learning](https://medium.com/@emilwallner/the-history-of-deep-learning-explored-through-6-code-snippets-d0a0e8545202) covers the inventors and the background to their breakthroughs. In this repo, you can find all the code samples from the story.
 
 - **The Method of Least Squares**: The first cost function
 - **Gradient Descent**: Finding the minimum of the cost function
